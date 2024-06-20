@@ -1,6 +1,7 @@
-# cú pháp sdk 
+# Getting Started with Create React App
+### `
   <script>
-                (function (d, t) {
+        (function (d, t) {
 					var BASE_URL = "http://localhost:3000";
 					var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
 					g.src = BASE_URL + "/sdk.js";
@@ -16,3 +17,7 @@
 					}
 				})(document, "script");              
   </script>
+
+
+
+`
