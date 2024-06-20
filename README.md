@@ -16,8 +16,4 @@
                         console.log("ok")
 					}
 				})(document, "script");              
-  </script>
-
-
-
-`
+  </script> `
