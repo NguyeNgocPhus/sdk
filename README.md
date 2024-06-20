@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-### `
+# Cú pháp sdk
+```python
   <script>
         (function (d, t) {
 					var BASE_URL = "http://localhost:3000";
@@ -16,4 +16,5 @@
                         console.log("ok")
 					}
 				})(document, "script");              
-  </script> `
+  </script> 
+  ```
