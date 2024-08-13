@@ -18,6 +18,7 @@
 				})(document, "script");              
   </script> 
   ```
+```python
 FROM node:14-buster
 
 EXPOSE 17011
@@ -104,3 +105,4 @@ echo "Building version [$version] service on {$env} environment"
 docker-compose -f docker-compose.yml config
 docker-compose -f docker-compose.yml build --no-cache --progress=plain
 docker-compose -f docker-compose.yml up -d
+  ```
